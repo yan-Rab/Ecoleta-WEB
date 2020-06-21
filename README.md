@@ -1,10 +1,7 @@
 # Ecoleta-WEB
-Aplicação web feita durante a Next Level Week da Rocketseat
+Aplicação web feita durante a Next Level Week da Rocketseat<br>
 
 <img src = './web/src/assets/logo.svg' />
-
- 
-  
   
   <img src = './web/src/assets/home-background.svg' width = '450px' heigth = '400px'/>
   
